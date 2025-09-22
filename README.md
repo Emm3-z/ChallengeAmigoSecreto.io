@@ -10,7 +10,7 @@ app.js
 assets/
 
 
-Esta app web cuenta con acceso publico web, por medio del siguiente link:
+Esta app web cuenta con acceso publico web, por medio del siguiente link: https://emm3-z.github.io/ChallengeAmigoSecreto.io/ 
 Sin embargo, si se requiere el repositorio y visualizarlo localmente se debe descargar o clonar el proyecto y abrir el archivo index.html en el navegador.
 
 
